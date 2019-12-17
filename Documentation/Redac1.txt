@@ -38,5 +38,7 @@ Contain :
                             -->  is a method for classifying objects based on closest training data 
                             -->  The k-nearest neighbor algorithm is amongst the simplest of all machine learning algorithms
                             -->  accuracy of the k-NN algorithm can be severely degraded by the presence of noisy or irrelevant features
-  
+  		            --> or if the feature scales are not consistent with their importance
+----------------------------------------------------------------------------------
+
  
