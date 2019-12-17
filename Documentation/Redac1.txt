@@ -1,0 +1,36 @@
+The Algorithme in the document that was work with : 
+1 - Naive Bayes K-NN 
+2- Decision List algorithm 
+
+this kind of algorithm above was using to analyzing the dataset
+
+
+Now we will introduce the Tools that will work with it : 
+Name : Tanagra , is used to classify the data and the data is eveluated by using
+10-fold cross validation and the results are compared 
+
+.it's a data mining suite build with a graphical interface.
+ 
+.main puprpose of Tanagra is to give the main purpose to Reasearchers  and 
+students a easy to use a data mining software 
+
+Contain : 
+ * clustering 
+ * Data Visualization 
+ * Supervised learning 
+ * Meta supervised learning 
+ * Feature selection and construction algorithms : 
+----------------------------------------------------------------------------
+ *  #### DECISION TREE ####### --> easy to Implement no domain knowledge 
+                               --> Allows you to handle high dimensional data 
+			       --> The Result is easy to read and interpret 
+			       --> The drill through feature to access detailed patients‟ profiles is only available in
+				   Decision Trees.	
+------------------------------------------------------------------------------
+* ##### Naive Bayes #########
+   			     --> statistical classifier 
+                             --> Assume no dependency between the attributes 
+                             -->  It attempts to maximize the posterior probability in determining 
+                             -->  Naive Bayes classifiers have works well in many complex real-world situations
+ 			     --> 
+ 

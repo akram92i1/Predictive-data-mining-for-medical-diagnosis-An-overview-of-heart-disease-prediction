@@ -1,0 +1,2 @@
+# How To implement the algorithm 
+https://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
