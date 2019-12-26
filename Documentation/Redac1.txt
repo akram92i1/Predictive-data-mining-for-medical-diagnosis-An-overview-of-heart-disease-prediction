@@ -41,4 +41,13 @@ Contain :
   		            --> or if the feature scales are not consistent with their importance
 ----------------------------------------------------------------------------------
 
- 
+HERE WE WILL SET SOME TEST DATA TO TEST ONE OF THE ALGORITHME A SAY WHY WE USE THIS KIND 
+OF ALGORITHME 
+_______________________________________________________________________________________
+
+  (*) Algorithm that we will use is the Naive Bayes 
+ --------------------------------------------------------------
+ before we use the data we almost have to normilze the data  
+  to reduce data size to get the optimal subset of attributed sufficient for heart disease
+  prediction. Classification is aa supervised learning method to extract models describing important   
+  
